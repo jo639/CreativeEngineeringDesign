@@ -19,6 +19,6 @@ void setup() {
   }
 
   int toggle_state(int toggle){
-    return toggle;
+    return !toggle;
   }
   
